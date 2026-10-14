@@ -4,7 +4,7 @@ I work in IT and cybersecurity and I'm based in Metro Detroit. I earned a **B.S.
 
 - Hands-on IT background: endpoint deployment and Microsoft 365 / Active Directory support during my internship at Soave Enterprises, plus four years managing POS systems and online-ordering integrations across three restaurant locations
 - Google Cybersecurity Professional Certificate
-- Open to IT, cybersecurity, and software engineering roles
+- Open to IT and cybersecurity roles
 
 ---
 

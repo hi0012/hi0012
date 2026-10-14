@@ -16,7 +16,7 @@ I work in IT and cybersecurity and I'm based in Metro Detroit. I earned a **B.S.
 | [**LocalAid**](https://github.com/WSU-4110/LocalAid-App) · *4-person team* | Community help-request web app. I built the Flask backend (routes, models, form handling), wrote the unit tests, set up GitHub Actions CI, and handled branch merges for the team. | Python, Flask, MySQL, Bootstrap 5, GitHub Actions |
 | [**Network Tools CLI**](https://github.com/hi0012/Network_Tools_Cli) | Menu-driven network troubleshooting tool: connectivity check, ping, local IP lookup, DNS resolution | Python, sockets |
 | [**Password Strength Checker**](https://github.com/hi0012/Password_Strength-Checker) | Scores passwords against common security rules and gives specific feedback on how to improve them | Python, regex |
-| [**System Info Checker**](https://github.com/hi0012/System_Info_Checker) | Cross-platform tool that reports OS, CPU, memory, and disk info on Windows, Linux, and macOS | C++ |
+| [**System Info Checker**](https://github.com/hi0012/System_Info_Checker) | Cross-platform tool that reports OS, CPU, memory, and disk info on Windows and Linux | C++ |
 | [**Student Management System**](https://github.com/hi0012/Student-Management-Java) | Console app for adding, listing, and updating student records | Java (OOP) |
 
 ---

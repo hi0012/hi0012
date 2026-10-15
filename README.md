@@ -1,10 +1,11 @@
 ## Hi, I'm Hisham Issa
 
-I work in IT and cybersecurity and I'm based in Metro Detroit. I earned a **B.S. in Computer Science from Wayne State University** (Dec 2025) and I'm now working on a **master's in Cybersecurity at the University of Michigan–Dearborn**.
+I'm an IT and cybersecurity professional based in Metro Detroit, open to **IT support, systems administration, and cybersecurity roles**. I earned a **B.S. in Computer Science from Wayne State University** (Dec 2025) and I'm now working on a **master's in Cybersecurity at the University of Michigan–Dearborn**.
 
-- Hands-on IT background: endpoint deployment and Microsoft 365 / Active Directory support during my internship at Soave Enterprises, plus four years managing POS systems and online-ordering integrations across three restaurant locations
-- Google Cybersecurity Professional Certificate
-- Open to IT and cybersecurity roles
+- **IT infrastructure:** endpoint deployment and Microsoft 365 / Active Directory support during my internship at Soave Enterprises
+- **Systems support:** four years managing POS systems across three restaurant locations, including online-ordering integrations and printer connectivity troubleshooting
+- **Security:** Google Cybersecurity Professional Certificate, plus graduate coursework in cloud security on Google Cloud
+- **Leadership:** led a 4-person senior design team as Team Lead, Documentation Lead, AI Lead, and Test Lead
 
 ---
 
@@ -24,8 +25,8 @@ I work in IT and cybersecurity and I'm based in Metro Detroit. I earned a **B.S.
 
 ### Skills
 
-**Languages:** Python · JavaScript · Java · C++ · SQL · HTML/CSS  
-**Web & backend:** React · Node.js · Express · Flask · REST APIs · JWT authentication  
-**Databases:** MongoDB · MySQL  
-**Cloud & DevOps:** Google Cloud · GitHub Actions (CI) · Git · Cloudinary  
-**IT & security:** Microsoft 365 · Active Directory · endpoint deployment · TCP/IP & DNS · password security
+**IT & infrastructure:** Microsoft 365 · Active Directory · endpoint deployment · POS systems · hardware and printer troubleshooting  
+**Security:** cloud security (Google Cloud) · authentication and password security · secrets management · Google Cybersecurity Certificate  
+**Networking:** TCP/IP · DNS · connectivity troubleshooting  
+**Scripting & tools:** Python · SQL · Git · GitHub Actions (CI)  
+**Development:** JavaScript · React · Node.js · Express · Flask · Java · C++ · MongoDB · MySQL
